@@ -11,6 +11,8 @@ We use word2vec word embeddings which you can downlaod from here:
 * [word vectors](https://drive.google.com/file/d/1v4VAsPCz6vqXrDqcF91i0okUnxZN3W_H/view?usp=sharing)
 
 ## Results
-Number of Parameters : 202351
+Number of Parameters : 202351 
+
 Training Accuracy : 93.59%
+
 Testing Accuracy : 89.62%
