@@ -1,5 +1,5 @@
 # Part of Speech Tagging Transformer from Scratch
-This repo contains an implementation of an encoder-only transformer model for part-of-speech tagging. We have implemented this from scratch in both Pytorch and Matlab (coming soon). The most important part of the code is the implementation of the transformer backpropagation from scratch.
+This repo contains an implementation of an encoder-only transformer model for part-of-speech tagging. We have implemented this from scratch in both Pytorch and Matlab (matlab implementation to be added soon). The most important part of the code is the implementation of the transformer backpropagation from scratch.
 
 ## Dataset
 To run POS taggin on the conll 2003 dataset, first download the data:
